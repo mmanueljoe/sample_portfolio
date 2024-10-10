@@ -1,8 +1,8 @@
 #ignore images files
 
-*.jpg
-*.jpeg
-*.png
-*.svg
-*.gif
-*.webp
+# *.jpg
+# *.jpeg
+# *.png
+# *.svg
+# *.gif
+# *.webp
